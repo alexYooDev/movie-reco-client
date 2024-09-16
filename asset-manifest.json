@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-reco-client/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/movie-reco-client/static/js/main.d8a84afb.chunk.js",
+    "main.js.map": "/movie-reco-client/static/js/main.d8a84afb.chunk.js.map",
+    "runtime-main.js": "/movie-reco-client/static/js/runtime-main.555938fd.js",
+    "runtime-main.js.map": "/movie-reco-client/static/js/runtime-main.555938fd.js.map",
+    "static/js/2.163b2658.chunk.js": "/movie-reco-client/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/movie-reco-client/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/movie-reco-client/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/movie-reco-client/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/movie-reco-client/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.555938fd.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.d8a84afb.chunk.js"
+  ]
+}
